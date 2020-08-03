@@ -1,0 +1,10 @@
+Please include date in your report.
+Please be specific in your description.
+Please refrain from changing this format.
+-----------------------------------------
+You can report below:
+1. Inventory Location Movement 
+   (not to include replenishment)
+2. Return of Inventory
+3. Any other errors you made or issues you had
+-----------------------------------------------
