@@ -1,3 +1,3 @@
 BOX BARCODE	SINGLE UNIT BARCODE	MODEL NAME	LOCATION	Total Quantities
-111111111111        111111111111        xxx-xxx-xxx A1  10
-222222222222        222222222222        yyy-yyy-yyy A2  20
+111111111111        111111111111        xxx-xxx-xxx   A1    10
+222222222222        222222222222        yyy-yyy-yyy   A2    20
